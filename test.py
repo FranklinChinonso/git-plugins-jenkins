@@ -9,4 +9,7 @@ def tables():
 tables()
 print("Hello")
 print("This is AWS Jenkins class")
-print("Good")        
+print("Good")  
+
+for i in range(7):
+    print("This is Franklin")
