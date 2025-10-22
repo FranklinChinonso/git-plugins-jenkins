@@ -6,4 +6,7 @@ def tables():
             print(f"{i} x {j} = {i*j}")
         print()    
 
-tables()        
+tables()
+print("Hello")
+print("This is AWS Jenkins class")
+print("Good")        
